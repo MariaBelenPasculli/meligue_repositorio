@@ -1,0 +1,22 @@
+.menu_grid {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    background-color: #264f49;
+    margin: 0;
+    align-items: center;
+    font-size: 11px;
+    font-family: 'Open Sans', serif;
+    padding: 25px;
+    justify-content:space-between;
+
+    .imgMenu {
+        display: grid;
+        background-color: #264f49;
+        padding-right: 300px;
+        justify-content:start;
+        justify-items:left;
+    
+    }
+
+}
