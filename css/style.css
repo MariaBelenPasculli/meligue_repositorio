@@ -26,13 +26,14 @@
   background-attachment: fixed;
   padding: 90px; }
   .seccion2 .seccion2__titulo {
-    color: #344946;
+    color: #dbdbdb;
     font-size: 40px;
     font-family: 'Lora', serif;
     text-align: center;
     line-height: 1.7; }
   .seccion2 .seccion2__subtitulo {
-    color: #67564d;
+    color: #ccc8c6;
     font-size: 30px;
-    font-family: 'Lora', serif;
+    font-family: 'Lora regular', serif ;
+    line-height : 25px;
     text-align: center; }
